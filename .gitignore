@@ -1,4 +1,6 @@
 .idea
+venv
+.venv
 
 idea
 .DS_Store
@@ -12,7 +14,7 @@ idea
 dist
 db.sqlite3
 sqlite.db
-venv
+
 
 __pycache__/
 */__pycache__/
